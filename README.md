@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the server-side code for the Madinory project. It is built using Node.js and Express.js, and it serves as the backend for the application.
+This is the server-side code for the Medinory project. It is built using Node.js and Express.js, and it serves as the backend for the application.
 
 ### Declerations
 
