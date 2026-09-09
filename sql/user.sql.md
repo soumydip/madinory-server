@@ -1,4 +1,4 @@
-# Medinory / MediVault AI — Full Database Schema
+# Medinory AI — Full Database Schema
 
 **Stack:** Supabase (PostgreSQL) for all relational/transactional data · Neo4j for the symptom-disease graph · Cloudinary for file storage (Postgres holds only the reference URL) · Redis for cache, session, and real-time SOS tracking (not a system of record).
 
